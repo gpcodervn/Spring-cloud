@@ -9,7 +9,10 @@
 	<packaging>war</packaging>
 
 	<name>SpringCloudConfigServer</name>
-	<description>Study Spring Cloud Config Server</description>
+	<description>
+		Study Spring Cloud Config Server
+		https://o7planning.org/vi/11723/tim-hieu-ve-spring-cloud-config-server-voi-vi-du
+	</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
